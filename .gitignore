@@ -1,0 +1,8 @@
+alf_data_dev/
+*.log
+target/
+.classpath
+.project 
+.settings
+**.iml
+.idea
